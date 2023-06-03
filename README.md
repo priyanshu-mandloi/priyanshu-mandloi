@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-mandloi&show_icons=true&locale=en" alt="priyanshu-mandloi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-mandloi&" alt="priyanshu-mandloi" /></p>
+
+-- Priyanshu Mandloi
